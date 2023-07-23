@@ -2,8 +2,8 @@
     "data": {
         "show_ads": true,
         "bannerAd": "ironsource",
-        "InterAd": "admob",
-        "NativeAd": "ironsource",
+        "InterAd": "ironsource",
+        "NativeAd": "admob",
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
         "admob_inter": "ca-app-pub-3940256099942544/1033173712",
         "admob_native": "ca-app-pub-3940256099942544/2247696110",
@@ -11,7 +11,7 @@
         "ironsource_api": "1af1512b5",
 		"ironsource_banner": "DefaultBanner",
 		"ironsource_inter": "DefaultInterstitial",
-        "intersitial_click_activites": 1,
+        "intersitial_click_activites": 3,
 		"privacyPolicy": "https://www.google.com",
 		"videos": ["https://www.mediafire.com/file/wy61ky5wy3zei40/Grimace+Fake+Call.mp4"],
 		"audios": ["https://gospelmetrics.com/wp-content/uploads/2021/12/Love-to-Sing-Christmas-Carol-Song-Santa-Claus-is-Coming-To-Town-qo.mp3"]
